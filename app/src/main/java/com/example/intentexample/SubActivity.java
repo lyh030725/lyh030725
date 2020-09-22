@@ -15,7 +15,7 @@ public class SubActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sub);
 
-        // A 개발자가 B에게 푸시를 날린다. ㅋㅋ루삥뽕
+        // A 개발자가 B에게 푸시를 날린다. ㅋㅋ루삥뽕 잉~기모링
 
         tv_sub = findViewById(R.id.tv_sub);
 

@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SubActivity"></activity>
+        <activity android:name=".Note"></activity>
+        <activity android:name=".Food" />
+        <activity android:name=".Jungang3" />
+        <activity android:name=".Jungang2" />
+        <activity android:name=".Jungang1" />
+        <activity android:name=".SubActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
